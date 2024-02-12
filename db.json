@@ -8,10 +8,10 @@
           "id": 1,
           "name": "Прием в гражданство",
           "description": {
-            "name": "",
-            "Documents": "",
-            "Price": "",
-            "Addresses": ""
+            "name": "name",
+            "Documents": "documents",
+            "Price": "price",
+            "Addresses": "address"
           }
         },
         {
