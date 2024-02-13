@@ -157,36 +157,6 @@
             "Price": "",
             "Addresses": ""
           }
-        },
-        {
-          "id": 8,
-          "name": "Соцфонд информация о периодах работы",
-          "description": {
-            "name": "",
-            "Documents": "",
-            "Price": "",
-            "Addresses": ""
-          }
-        },
-        {
-          "id": 9,
-          "name": "Подтверждение подлинности диплома",
-          "description": {
-            "name": "",
-            "Documents": "",
-            "Price": "",
-            "Addresses": ""
-          }
-        },
-        {
-          "id": 10,
-          "name": "Справка о выбытии",
-          "description": {
-            "name": "",
-            "Documents": "",
-            "Price": "",
-            "Addresses": ""
-          }
         }
       ]
     },
@@ -292,6 +262,5 @@
         }
       ]
     }
-
   ]
 }
